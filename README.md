@@ -25,5 +25,5 @@
 - Vue.Js Interview QA:
   - https://github.com/sudheerj/vuejs-interview-questions
  
-  - jQuery Interview QA:
-    - https://www.simplilearn.com/tutorials/javascript-tutorial/jquery-interview-questions
+- jQuery Interview QA:
+  - https://www.simplilearn.com/tutorials/javascript-tutorial/jquery-interview-questions
